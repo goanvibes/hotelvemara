@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Vemara Goa",
+  "short_name": "Vemara",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ea",
+  "theme_color": "#17130f",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
